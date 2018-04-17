@@ -1,8 +1,4 @@
-package br.com.patterns.factory;
-
-import br.com.patterns.factory.factorymethod.Animal;
-import br.com.patterns.factory.factorymethod.CatFactory;
-import br.com.patterns.factory.factorymethod.OtherAnimalFactory;
+package br.com.patterns.factory.factorymethod;
 
 public class Launcher {
 
